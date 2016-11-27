@@ -1,0 +1,20 @@
+{
+  "name": "searchRepositories",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Justyna Konarska",
+  "dependencies": {
+    "angular": "^1.5.9",
+    "angular-animate": "^1.5.9",
+    "angular-aria": "^1.5.9",
+    "angular-material": "^1.1.1"
+  },
+  "devDependencies": {
+    "angular-mocks": "^1.5.9",
+    "connect": "^3.5.0",
+    "grunt": "^1.0.1",
+    "grunt-contrib-jasmine": "^1.0.3",
+    "grunt-contrib-watch": "^1.0.0",
+    "serve-static": "^1.11.1"
+  }
+}
